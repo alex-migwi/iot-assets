@@ -1,0 +1,1 @@
+# iot-assets fake API
